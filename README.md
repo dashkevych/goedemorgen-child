@@ -1,6 +1,6 @@
 # Goedemorgen Child Theme
 
-The Goedemorgen Child Theme is a starter blank child theme for WordPress Goedemorgen theme.
+The Goedemorgen Child Theme is a starter blank child theme for <a href="https://goedemorgenwp.com/" target="_blank">Goedemorgen WordPress theme</a>.
 
 ## Renaming *(optional)*
 
