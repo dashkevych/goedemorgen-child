@@ -4,7 +4,7 @@ The Goedemorgen Child Theme is a starter blank child theme for WordPress Goedemo
 
 ## Renaming *(optional)*
 
-You can rename the **zip** file of the child theme, so it is not called *goedemorgen-child-master.zip*. You should do this to make more sense.
+You can rename the **zip** file of the child theme, so it is not called *goedemorgen-child-master.zip*. It's better to have a folder that is called **goedemorgen-child** rather than **goedemorgen-child-master**. It makes more sense :)
 
 ## Installation
 
